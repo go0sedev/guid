@@ -3,7 +3,7 @@
     "description": "A simple class to generate GUID strings",
     "keywords": ["laravel", "gustavtrenwith", "guid", "php"],
     "license": "MIT License",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "authors": [
         {
           "name": "Gustav Trenwith",
