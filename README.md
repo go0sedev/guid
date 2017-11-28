@@ -12,10 +12,10 @@ Then run `composer update`
 
 Register the service providers and Facades in `config/app.php`
 ```
-gustavtrenwith\guid\GuidServiceProvider::class,
+GustavTrenwith\Guid\GuidServiceProvider::class,
 ```
 ```
-'Guid' => gustavtrenwith\guid\GuidFacade::class,
+'Guid' => GustavTrenwith\Guid\GuidFacade::class,
 ```
 
 Now you can use the  `Guid` facade anywhere in your application
